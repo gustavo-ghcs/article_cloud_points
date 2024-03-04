@@ -4,7 +4,10 @@ import matplotlib.pyplot as plt
 
 # Load the point cloud
 DATANAME = "appartment_cloud.ply"
-pcd = o3d.io.read_point_cloud(DATANAME)
+
+data_folder="cloud_points/"
+
+pcd = o3d.io.read_point_cloud(data_folder+DATANAME)
 
 # Data preprocessing
 pcd_center = pcd.get_center()
