@@ -1,1 +1,1 @@
-### [Download](https://drive.google.com/drive/folders/1Ih_Zz9a6UcbUlaA-puEB_is7DYvXrb4w) the Cloud Points.
+### [Download](https://drive.google.com/drive/folders/1MKHY_8Fx4tcpagDJ-hbpK92mqbl9YJnQ?usp=sharing) the Cloud Points.
